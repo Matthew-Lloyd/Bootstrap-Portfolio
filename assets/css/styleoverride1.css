@@ -3,3 +3,6 @@ html{
 	background-repeat: repeat; 
 	height: 100%;
 }
+.portfolio-list{
+	font-weight: bold;
+}
